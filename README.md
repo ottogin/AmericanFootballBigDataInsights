@@ -28,12 +28,12 @@ To 11.11:
 * Create simple initial visualizations (like histograms of features)
 * Analyze initial visualizations and try to find something unusual in data
 
-To 25.11:
+To 18.11:
 * Using prevous results, try to find some more deeper connections between features and visualize it
 * Try to understand which parameters really affect result of a game and criteria of good team for American Football
 * Investigate possible data representations and feature engineering
 
-To 2.12:
+To 25.11:
 * Use insights from previous analysis to build model which predicts how many yard player will gain after handoff and submit results to kaggle
 * Prepare a report
 
