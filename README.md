@@ -1,13 +1,19 @@
-# Title
+# American Footbal Big Data Insights
+How many yards will an NFL player gain after receiving a handoff?
 
 # Abstract
-A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
+Sport data always contains a lot of very interesting insights. Having been inspired by [Sheldon Cooper](https://youtu.be/XfYI8ILGuv0?t=28) we decided to find out what helps professional sport players win.
+American football is a complex sport and defintely contains many secrets to discover for data scientists.
+Deeper insight about what is important and what is not will help teams, media, and fans better understand the game, and for coaches to find better strategies. 
+
+As good data scientists we are going to start discovering the data with nice visualizations. Looking at players positions, understanding coach strategies and team statistics will hopefully give us surprising ideas. As a model task we will use our insights to predict how many yards will an NFL player gain after receiving a handoff.
+
 
 # Research questions
-A list of research questions you would like to address during the project. 
+Is Sheldon right?
 
 # Dataset
-List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
+The data is provided by the running [Kaggle competition](https://www.kaggle.com/c/nfl-big-data-bowl-2020/data) and presented in tabular data containing 509762 rows and 49 columns. Each line is a time-stamp of one of the players for one of the 512 games. For each time-stamp we know player position and even orientation he looks at, we also know what wether it was, so there is a really huge space for interesting correlations!
 
 # A list of internal milestones up until project milestone 2
 Add here a sketch of your planning for the next project milestone.
