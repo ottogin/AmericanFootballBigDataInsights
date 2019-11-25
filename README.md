@@ -1,5 +1,5 @@
 # Description of files for Milestone 2
-All data exploration is in notebook DataExploration.ipynb. We use plotly for some visualizations, so the best way to look at our work without actual downloading and running code is to open this notebook with nbviewer: [https://nbviewer.jupyter.org/github/ottogin/AmericanFootballBigDataInsights/blob/master/DataExploration.ipynb](https://nbviewer.jupyter.org/github/ottogin/AmericanFootballBigDataInsights/blob/master/DataExploration.ipynb) (Downloading and opening without running will also hide some important visualization, so please use nbviewer, sorry for inconvience (plotly plots are just so beautiful ;))). 
+All data exploration is in notebook **DataExploration.ipynb**. We use plotly for some visualizations, so the best way to look at our work without actual downloading and running code is to open this notebook with nbviewer: [https://nbviewer.jupyter.org/github/ottogin/AmericanFootballBigDataInsights/blob/master/DataExploration.ipynb](https://nbviewer.jupyter.org/github/ottogin/AmericanFootballBigDataInsights/blob/master/DataExploration.ipynb) (Downloading and opening without running will also hide some important visualization, so please use nbviewer, sorry for inconvience (plotly plots are just so beautiful ;))). 
 
 
 This notebook consists of few parts (in notebook they are indicated by large headers):
