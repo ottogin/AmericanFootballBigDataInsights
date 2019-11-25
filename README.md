@@ -1,11 +1,11 @@
 # Description of files for Milestone 2
-All data exploration is in notebook DataExploration.ipynb. We use plotly for some visualizations, so the best way to look at our work without actual downloading and running code is to open this notebook with nbviewer: [https://nbviewer.jupyter.org/github/ottogin/AmericanFootballBigDataInsights/blob/master/DataExploration.ipynb](https://nbviewer.jupyter.org/github/ottogin/AmericanFootballBigDataInsights/blob/master/DataExploration.ipynb) (Downloading and opening without running will also hide some important visualization, so please use nbviewer, sorry for inconvience (plotly plots are just so beautiful ;))). 
+All data analysis is in the notebook DataExploration.ipynb. We use plotly for some visualizations, so the best way to look at our work without downloading and running it is to open this notebook with nbviewer: [https://nbviewer.jupyter.org/github/ottogin/AmericanFootballBigDataInsights/blob/master/DataExploration.ipynb](https://nbviewer.jupyter.org/github/ottogin/AmericanFootballBigDataInsights/blob/master/DataExploration.ipynb) (Downloading and opening without running will also hide some important visualizations, so please use nbviewer, sorry for inconvience (plotly plots are just so beautiful ;))). 
 
 
-This notebook consists of few parts (in notebook they are indicated by large headers):
-* Data cleaning and processing: this part contains cleaning of some features and a bit of feature engineering. Most of preprocessings were untrivial and it was very important part of our work, that's why we decided to left it in final notebook. It also has visualizations of preprocessed features, so we hope it wouldn't be boring to read it ;)
+This notebook consists of several parts (in notebook they are indicated by large headers):
+* Data cleaning and processing: this part includes cleaning of some features and a bit of feature engineering. Most of preprocessings were nontrivial and it was very important part of our work, that's why we decided to left it in the final notebook. In addition, this part contains visualizations of preprocessed features, so we hope it wouldn't be boring to read it ;)
 * Descriptive Analytics: this part has a lot of different visualizations and analysis, from general to specific.
-* Answering Research Questing: this part continues story from previous part with answers to some of research questions proposed before.
+* Answering Research Questions: this part continues the story from previous parts with answers to some of the research questions proposed before.
 * Plan for Milestone 3
 
 # American Footbal Big Data Insights
