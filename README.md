@@ -10,7 +10,7 @@ All data analysis is in the notebook DataExploration.ipynb. We use plotly for so
 * Fedor: part of data cleaning, story about geography of games and players, feature importances from LightGBM
 * Artem: part of data cleaning, Sheldon's story, frontend
 * Davit: a lot of text writing and checking, some initial data analysis, story about players' weights, positions etc
-* Oganes: story about tactics, a lot of visualizations, experiments on analysis of position using Voronoi diagram (unfortunately, it wasn't successful, but was very interesting)
+* Oganes: story about tactics, a lot of visualizations, part of states' story, different experiments.
 
 Despite the roles described above, we constantly helped each other in working on different tasks. In our opinion, we all contributed equally to this project.
 
