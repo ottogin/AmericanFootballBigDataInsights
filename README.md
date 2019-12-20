@@ -1,7 +1,7 @@
 # Info for Milestone 3
 
 ## The results are formulated in our [DataStory](https://ottogin.github.io)
-Reserve link for the datastory: https://ottogin.github.io
+Reserve link for the datastory: https://ottogin.github.io. The code is here [https://github.com/ottogin/ottogin.github.io](https://github.com/ottogin/ottogin.github.io).
 
 ## Code
 All data analysis is in the notebook DataExploration.ipynb. We use plotly for some visualizations, so the best way to look at our work without downloading and running it is to open this notebook with nbviewer: [https://nbviewer.jupyter.org/github/ottogin/AmericanFootballBigDataInsights/blob/master/DataExploration.ipynb](https://nbviewer.jupyter.org/github/ottogin/AmericanFootballBigDataInsights/blob/master/DataExploration.ipynb) (Downloading and opening without running will also hide some important visualizations, so please use nbviewer, sorry for inconvience (plotly plots are just so beautiful ;))).
