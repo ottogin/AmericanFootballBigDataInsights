@@ -7,10 +7,10 @@ Reserve link for the datastory: https://ottogin.github.io
 All data analysis is in the notebook DataExploration.ipynb. We use plotly for some visualizations, so the best way to look at our work without downloading and running it is to open this notebook with nbviewer: [https://nbviewer.jupyter.org/github/ottogin/AmericanFootballBigDataInsights/blob/master/DataExploration.ipynb](https://nbviewer.jupyter.org/github/ottogin/AmericanFootballBigDataInsights/blob/master/DataExploration.ipynb) (Downloading and opening without running will also hide some important visualizations, so please use nbviewer, sorry for inconvience (plotly plots are just so beautiful ;))).
 
 ## Contribution
-Fedor: part of data cleaning, story about geography of games and players, feature importances from LightGBM
-Artem: part of data cleaning, Sheldon's story, frontend
-Davit: a lot of text writing and checking, some initial data analysis, story about players' weights, positions etc
-Oganes: story about tactics, a lot of visualizations, experiments on analysis of position using Voronoi diagram (unfortunately, it wasn't successful, but was very interesting)
+* Fedor: part of data cleaning, story about geography of games and players, feature importances from LightGBM
+* Artem: part of data cleaning, Sheldon's story, frontend
+* Davit: a lot of text writing and checking, some initial data analysis, story about players' weights, positions etc
+* Oganes: story about tactics, a lot of visualizations, experiments on analysis of position using Voronoi diagram (unfortunately, it wasn't successful, but was very interesting)
 
 Despite the roles described above, we constantly helped each other in working on different tasks. In our opinion, we all contributed equally to this project.
 
