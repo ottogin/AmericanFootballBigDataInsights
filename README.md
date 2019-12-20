@@ -12,7 +12,7 @@ All data analysis is in the notebook DataExploration.ipynb. We use plotly for so
 * Davit: a lot of text writing and checking, some initial data analysis, story about players' weights, positions etc
 * Oganes: story about tactics, a lot of visualizations, part of states' story, different experiments.
 
-Despite the roles described above, we constantly helped each other in working on different tasks. In our opinion, we all contributed equally to this project.
+Despite the roles described above, we worked as a whole team and everyone made a crucial contribution to the project. As we are a good team everyone will work on final presentation, especially Sheldon.
 
 # American Footbal Big Data Insights
 How many yards will an NFL player gain after receiving a handoff?
